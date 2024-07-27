@@ -683,10 +683,11 @@ h2.display-1 {
 
 .heading-container {
     position: relative;
-    margin-bottom: 150px; /* Adjust spacing as needed */
+    margin-bottom: 200px; /* Adjust spacing as needed */
 }
 
 .description-container {
+    position: relative;
     margin-bottom: 20px; /* Adjust spacing as needed */
     margin-left: 0; /* Move container to the left */
     padding-left: 100; /* Remove any padding if present */
