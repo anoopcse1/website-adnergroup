@@ -687,7 +687,7 @@ h2.display-1 {
 }
 
 .description-container {
-    position: relative;
+    position: absolute;
     margin-bottom: 20px; /* Adjust spacing as needed */
     margin-left: 0; /* Move container to the left */
     padding-left: 100; /* Remove any padding if present */
