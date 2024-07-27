@@ -698,6 +698,7 @@ h2.display-1 {
 p.text-white {
     margin: 100;
      position: relative;
+    margin-top:auto;
 }
 
 
