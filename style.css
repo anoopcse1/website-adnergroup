@@ -677,12 +677,13 @@ iconify-icon.quote {
 h2.display-1 {
     font-size: 50px;
     position: absolute; /* Makes the element absolute within its closest positioned ancestor */
-    top: 0; /* Aligns the element to the top */
-    left: 0; /* Aligns the element to the left */
+    top: 10; /* Aligns the element to the top */
+    left: 10; /* Aligns the element to the left */
+    margin: 100
 }
 
 .heading-container {
-    position: relative;
+    position: abs;
     margin-bottom: 100px; /* Adjust spacing as needed */
 }
 
@@ -697,8 +698,7 @@ h2.display-1 {
 /* Optional: Adjust paragraph styling if needed */
 p.text-white {
     margin: 100;
-     position: relative;
-    margin-top:auto;
+    margin-top:100;
 }
 
 
