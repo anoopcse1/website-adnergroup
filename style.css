@@ -229,7 +229,7 @@ h6 {
 /* - Content width
 --------------------------------------------------------------*/
 .container-md {
-  max-width: 1465px;
+  max-width: 1511px;
 }
 
 .container-lg {
@@ -237,7 +237,7 @@ h6 {
 }
 
 /* Animation */
-@media (min-width: 200px) {
+@media (min-width: 150px) {
   .animate {
     animation-duration: 0.3s;
     -webkit-animation-duration: 0.3s;
