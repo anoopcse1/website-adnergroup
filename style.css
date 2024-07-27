@@ -675,8 +675,34 @@ iconify-icon.quote {
 }
 
 h2.display-1 {
-    font-size: 40px;
+    font-size: 50px;
     position: absolute; /* Makes the element absolute within its closest positioned ancestor */
     top: 0; /* Aligns the element to the top */
     left: 0; /* Aligns the element to the left */
 }
+
+.heading-container {
+    position: relative;
+    margin-bottom: 150px; /* Adjust spacing as needed */
+}
+
+.description-container {
+    margin-bottom: 20px; /* Adjust spacing as needed */
+    margin-left: 0; /* Move container to the left */
+    padding-left: 100; /* Remove any padding if present */
+    text-align: left; /* Ensure text is aligned to the left */
+}
+
+/* Optional: Adjust heading size if needed */
+h2.display-1 {
+    font-size: 40px;
+    margin: 100;
+}
+
+/* Optional: Adjust paragraph styling if needed */
+p.text-white {
+    margin: 100;
+}
+
+
+
