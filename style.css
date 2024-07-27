@@ -697,6 +697,7 @@ h2.display-1 {
 /* Optional: Adjust paragraph styling if needed */
 p.text-white {
     margin: 100;
+     position: relative;
 }
 
 
