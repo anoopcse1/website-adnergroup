@@ -674,19 +674,20 @@ iconify-icon.quote {
   box-shadow: none;
 }
 
+
 h2.display-1 {
     font-size: 40px;
-    position: absolute; /* Makes the element absolute within its closest positioned ancestor */
-    top: 0; /* Aligns the element to the top */
-    left: 10; /* Aligns the element to the left */
-    margin: 10;
+    position: absolute; /* Absolute positioning within the container */
+    top: 10px; /* 10px from the top */
+    left: 100px; /* 100px from the left */
+    margin: 0; /* Remove any additional margins */
 }
 
-.heading-container {
-    position: abs;
-   
+.description-container {
+    position: absolute; /* Absolute positioning within the container */
+    top: 110px; /* Adjust as needed to place it just below the h2 */
+    left: 100px; /* 100px from the left */
+    margin: 0; /* Remove any additional margins */
+    padding-top: 10; /* Remove padding-top */
 }
-
-
-
 
